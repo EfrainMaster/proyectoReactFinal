@@ -1,5 +1,5 @@
 # Efrain Store
-
+Email: admin@gmail.com contraseña: 123456
 ## Cómo usar la página
 
 1. Inicia la aplicación con `npm run dev` y abre la dirección local que muestra Vite.
