@@ -11,7 +11,7 @@ const navItems = [
 ]
 
 export default function Header() {
-  const { user, isAdmin, authMessage, logout } = useAuth()
+  const { user, authMessage, logout } = useAuth()
   const [logoutError, setLogoutError] = useState('')
 
   const handleLogout = async () => {
@@ -42,7 +42,7 @@ export default function Header() {
             {item.label}
           </Link>
         ))}
-        {isAdmin && <Link to="/gestion" className="nav-link">Gestión</Link>}
+        <Link to="/gestion" className="nav-link">Panel</Link>
       </nav>
 
       <div className="header-actions">
