@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "nombre": "Auriculares Pro X",
+    "categoria": "Audio",
+    "precio": 89999,
+    "descripcion": "Audio inmersivo con cancelación activa y batería de larga duración.",
+    "imagen": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 2,
+    "nombre": "Smartwatch Pulse 7",
+    "categoria": "Wearables",
+    "precio": 129999,
+    "descripcion": "Monitoreo deportivo, GPS y diseño ultrafino para tu rutina diaria.",
+    "imagen": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 3,
+    "nombre": "Cámara Nova 4K",
+    "categoria": "Cámaras",
+    "precio": 249999,
+    "descripcion": "Captura detalles nítidos con video en 4K y estabilización avanzada.",
+    "imagen": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 4,
+    "nombre": "Silla Ergonomica Max",
+    "categoria": "Hogar",
+    "precio": 179999,
+    "descripcion": "Soporte lumbar ideal para trabajo diario y relajación prolongada.",
+    "imagen": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 5,
+    "nombre": "Laptop Vega 14",
+    "categoria": "Computación",
+    "precio": 549999,
+    "descripcion": "Portátil ligera, potente y con pantalla brillante para trabajo y estudio.",
+    "imagen": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 6,
+    "nombre": "Teclado mecánico Titan",
+    "categoria": "Accesorios",
+    "precio": 64999,
+    "descripcion": "Respuesta rápida y sensación premium para gamers y profesionales.",
+    "imagen": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 7,
+    "nombre": "Monitor OLED 27\"",
+    "categoria": "Computación",
+    "precio": 399999,
+    "descripcion": "Color preciso, negros profundos y tamaño ideal para productividad visual.",
+    "imagen": "https://images.unsplash.com/photo-1527443194391-1f9a5d5f4d42?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 8,
+    "nombre": "Alexa Home Hub",
+    "categoria": "Hogar",
+    "precio": 74999,
+    "descripcion": "Control inteligente del hogar con asistente de voz y audio envolvente.",
+    "imagen": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 9,
+    "nombre": "Consola Play Max",
+    "categoria": "Gaming",
+    "precio": 459999,
+    "descripcion": "Máxima potencia para jugar en resolución 4K con gráficos fluidos.",
+    "imagen": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 10,
+    "nombre": "Altavoz Bluetooth Echo",
+    "categoria": "Audio",
+    "precio": 59999,
+    "descripcion": "Sonido equilibrado, resistencia y conectividad inalámbrica total.",
+    "imagen": "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 11,
+    "nombre": "Refrigerador Mini Nova",
+    "categoria": "Hogar",
+    "precio": 269999,
+    "descripcion": "Diseño compacto ideal para habitaciones, oficinas o espacios reducidos.",
+    "imagen": "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 12,
+    "nombre": "Impresora Multifunción Desk",
+    "categoria": "Oficina",
+    "precio": 159999,
+    "descripcion": "Impresión, escaneo y copia con calidad profesional en casa u oficina.",
+    "imagen": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 13,
+    "nombre": "Drone Sky Explorer",
+    "categoria": "Cámaras",
+    "precio": 329999,
+    "descripcion": "Vuelo estable, cámara 4K y seguimiento automático para capturar paisajes.",
+    "imagen": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 14,
+    "nombre": "Bicicleta Eléctrica City",
+    "categoria": "Deportes",
+    "precio": 499999,
+    "descripcion": "Comodidad urbana y potencia eléctrica para moverse sin esfuerzo.",
+    "imagen": "https://images.unsplash.com/photo-1541625602330-2277a4c46182?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 15,
+    "nombre": "Mochila Travel Flex",
+    "categoria": "Accesorios",
+    "precio": 44999,
+    "descripcion": "Espaciosa, resistente y diseñada para recorridos diarios y viajes cortos.",
+    "imagen": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 16,
+    "nombre": "Cafetera Deluxe Home",
+    "categoria": "Hogar",
+    "precio": 119999,
+    "descripcion": "Preparación de café premium con tecnología de espuma y control preciso.",
+    "imagen": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 17,
+    "nombre": "Router WiFi Ultra",
+    "categoria": "Tecnología",
+    "precio": 89999,
+    "descripcion": "Cobertura amplia, estabilidad y velocidad para todo el hogar.",
+    "imagen": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 18,
+    "nombre": "Smart Lamp Glow",
+    "categoria": "Hogar",
+    "precio": 39999,
+    "descripcion": "Luz adaptable con control por aplicación y modos de ambiente personalizables.",
+    "imagen": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 19,
+    "nombre": "Tablet Air 11",
+    "categoria": "Tecnología",
+    "precio": 219999,
+    "descripcion": "Pantalla nítida, gran desempeño y batería para estudiar, crear y entretenerse.",
+    "imagen": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 20,
+    "nombre": "Gafas de Realidad Virtual Orbit",
+    "categoria": "Gaming",
+    "precio": 289999,
+    "descripcion": "Experimenta juegos y contenido inmersivo con visión envolvente y audio 3D.",
+    "imagen": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 21,
+    "nombre": "Auriculares Inalámbricos Nova",
+    "categoria": "Audio",
+    "precio": 114999,
+    "descripcion": "Auriculares livianos con sonido envolvente y conexión Bluetooth estable.",
+    "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 22,
+    "nombre": "Barra de Sonido Cinema 2.1",
+    "categoria": "Audio",
+    "precio": 189999,
+    "descripcion": "Mejora el audio de películas y música con subwoofer inalámbrico incluido.",
+    "imagen": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 23,
+    "nombre": "Parlante Portátil Wave",
+    "categoria": "Audio",
+    "precio": 82999,
+    "descripcion": "Sonido potente y batería de larga duración para llevar tu música a todos lados.",
+    "imagen": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 24,
+    "nombre": "Smartwatch Active Pro",
+    "categoria": "Wearables",
+    "precio": 159999,
+    "descripcion": "Seguimiento de actividad, notificaciones y métricas de salud en tu muñeca.",
+    "imagen": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 25,
+    "nombre": "Pulsera Fit Move",
+    "categoria": "Wearables",
+    "precio": 69999,
+    "descripcion": "Controla pasos, sueño y entrenamientos con una pulsera cómoda y resistente.",
+    "imagen": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 26,
+    "nombre": "Cámara Mirrorless Creator",
+    "categoria": "Cámaras",
+    "precio": 689999,
+    "descripcion": "Cámara compacta con enfoque rápido para fotografía y video de alta calidad.",
+    "imagen": "https://images.unsplash.com/photo-1510127034890-1e9e9a4a8f52?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 27,
+    "nombre": "Lente Zoom 18-135 mm",
+    "categoria": "Cámaras",
+    "precio": 319999,
+    "descripcion": "Lente versátil para capturar paisajes, retratos y escenas en movimiento.",
+    "imagen": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 28,
+    "nombre": "Aro de Luz Studio",
+    "categoria": "Cámaras",
+    "precio": 54999,
+    "descripcion": "Iluminación regulable para videollamadas, transmisiones y creación de contenido.",
+    "imagen": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 29,
+    "nombre": "Notebook Pro 15",
+    "categoria": "Computación",
+    "precio": 799999,
+    "descripcion": "Equipo portátil de alto rendimiento para trabajar, estudiar y crear.",
+    "imagen": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 30,
+    "nombre": "Teclado Compacto Wireless",
+    "categoria": "Computación",
+    "precio": 75999,
+    "descripcion": "Teclado inalámbrico compacto con teclas silenciosas y diseño ergonómico.",
+    "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 31,
+    "nombre": "Mouse Óptico Precision",
+    "categoria": "Computación",
+    "precio": 32999,
+    "descripcion": "Mouse cómodo con sensor preciso y botones configurables para el uso diario.",
+    "imagen": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 32,
+    "nombre": "Silla Gamer Comfort",
+    "categoria": "Gaming",
+    "precio": 239999,
+    "descripcion": "Silla ajustable con soporte lumbar y respaldo acolchado para largas sesiones.",
+    "imagen": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 33,
+    "nombre": "Control Inalámbrico Pro",
+    "categoria": "Gaming",
+    "precio": 89999,
+    "descripcion": "Control ergonómico con vibración y conectividad inalámbrica multidispositivo.",
+    "imagen": "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 34,
+    "nombre": "Estación de Carga Gamer",
+    "categoria": "Gaming",
+    "precio": 42999,
+    "descripcion": "Organiza y carga tus controles con una base compacta para tu espacio de juego.",
+    "imagen": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 35,
+    "nombre": "Lámpara de Escritorio LED",
+    "categoria": "Hogar",
+    "precio": 48999,
+    "descripcion": "Luz regulable y brazo flexible para estudiar o trabajar con comodidad.",
+    "imagen": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 36,
+    "nombre": "Aspiradora Robot Clean",
+    "categoria": "Hogar",
+    "precio": 349999,
+    "descripcion": "Limpieza programable con sensores para recorrer tus ambientes de forma autónoma.",
+    "imagen": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 37,
+    "nombre": "Pava Eléctrica Smart",
+    "categoria": "Hogar",
+    "precio": 57999,
+    "descripcion": "Hervidor de apagado automático con capacidad ideal para el uso cotidiano.",
+    "imagen": "https://images.unsplash.com/photo-1594213114663-d94db9b1714a?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 38,
+    "nombre": "Silla de Oficina Ergo",
+    "categoria": "Oficina",
+    "precio": 199999,
+    "descripcion": "Asiento regulable con respaldo ventilado y soporte para jornadas de trabajo.",
+    "imagen": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 39,
+    "nombre": "Webcam Full HD Pro",
+    "categoria": "Oficina",
+    "precio": 68999,
+    "descripcion": "Imagen nítida y micrófono integrado para reuniones y clases virtuales.",
+    "imagen": "https://images.unsplash.com/photo-1587826080692-f439cd0b70da?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 40,
+    "nombre": "Hub USB-C 7 en 1",
+    "categoria": "Accesorios",
+    "precio": 52999,
+    "descripcion": "Amplía las conexiones de tu notebook con puertos USB, HDMI y lector de tarjetas.",
+    "imagen": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 41,
+    "nombre": "Cargador Rápido 65 W",
+    "categoria": "Accesorios",
+    "precio": 38999,
+    "descripcion": "Carga rápida USB-C para teléfonos, tablets y notebooks compatibles.",
+    "imagen": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 42,
+    "nombre": "Mochila Tech Urban",
+    "categoria": "Accesorios",
+    "precio": 69999,
+    "descripcion": "Compartimento acolchado para notebook y bolsillos organizadores para tus accesorios.",
+    "imagen": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 43,
+    "nombre": "Proyector Home Cinema",
+    "categoria": "Tecnología",
+    "precio": 429999,
+    "descripcion": "Proyecta tus películas y presentaciones con imagen amplia y conexión versátil.",
+    "imagen": "https://images.unsplash.com/photo-1535016120720-40c646be5580?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 44,
+    "nombre": "Disco SSD Externo 1 TB",
+    "categoria": "Tecnología",
+    "precio": 119999,
+    "descripcion": "Almacenamiento portátil rápido para respaldar y transportar tus archivos.",
+    "imagen": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 45,
+    "nombre": "Tablet Kids Fun",
+    "categoria": "Tecnología",
+    "precio": 179999,
+    "descripcion": "Tablet liviana con funda protectora y controles parentales configurables.",
+    "imagen": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 46,
+    "nombre": "Bicicleta Urbana Rodado 29",
+    "categoria": "Deportes",
+    "precio": 379999,
+    "descripcion": "Bicicleta liviana con cambios confiables para recorridos urbanos y paseos.",
+    "imagen": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 47,
+    "nombre": "Reloj Deportivo GPS",
+    "categoria": "Deportes",
+    "precio": 189999,
+    "descripcion": "Registra rutas, ritmo y distancia para acompañar tus entrenamientos al aire libre.",
+    "imagen": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 48,
+    "nombre": "Impresora Láser Compacta",
+    "categoria": "Oficina",
+    "precio": 229999,
+    "descripcion": "Impresión monocromática rápida en un formato compacto para el escritorio.",
+    "imagen": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 49,
+    "nombre": "Micrófono USB Creator",
+    "categoria": "Audio",
+    "precio": 94999,
+    "descripcion": "Captura voz clara para podcasts, transmisiones y reuniones en línea.",
+    "imagen": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 50,
+    "nombre": "Monitor Portátil 15.6",
+    "categoria": "Computación",
+    "precio": 279999,
+    "descripcion": "Pantalla portátil liviana para ampliar tu espacio de trabajo donde estés.",
+    "imagen": "https://images.unsplash.com/photo-1527443194391-1f9a5d5f4d42?auto=format&fit=crop&w=900&q=80"
+  }
+]
